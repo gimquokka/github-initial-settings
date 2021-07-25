@@ -6,12 +6,24 @@ labels: 'Status: To Do, Priority: Medium, Type: Bugfix/Function, Type: Bugfix/UI
 assignees: ''
 ---
 
-# 발생 일시
+## Environment
 
-# 발생 위치
 
-# 증상
 
-# 재현 방법
+## Steps to reproduce
 
-# 스크린샷
+
+
+## Expected Result
+
+
+
+## Actual Result
+
+
+
+## Visual Proof (screenshots, videos, text)
+
+
+
+## Severity/Priority

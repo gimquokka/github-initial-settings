@@ -6,10 +6,23 @@ labels: 'Status: To Do, Priority: Medium, Type: Feature/Function, Type: Feature/
 assignees: ''
 ---
 
-# 추가/개선 필요 요소
+## Feature description
 
-# 추가/개선 필요 이유
 
-# 상세 요구 사항
 
-# 스크린샷
+### Use cases
+
+
+
+## Benefits
+
+For whom and why.
+
+
+
+## Requirements
+
+
+
+## Links / references
+

@@ -6,8 +6,30 @@ labels: 'Status: To Do, Priority: High, Type: Release'
 assignees: ''
 ---
 
-# 버전
 
-# 업데이트 예정일
 
-# 반영 사항
+# Upgrade Steps
+
+- [ACTION REQUIRED]
+-
+
+# Breaking Changes
+
+- 
+- 
+
+# New Features
+-
+-
+
+# Bug Fixes
+-
+-
+
+# Improvements
+-
+-
+
+# Other Changes
+-
+-
