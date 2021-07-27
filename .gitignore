@@ -42,3 +42,8 @@ out/
 ### Config ###
 *.yml
 *.properties.DS_Store
+
+### label-setting ###
+my-label-sync-cmd.md
+labels.json
+label-sync-cmd.md
